@@ -1,0 +1,37 @@
+ID,Name,CountryID
+1,Cairo,1
+2,Cape Town,2
+3,Pretoria,2
+4,Bloemfontain,2
+5,Nairobi,3
+6,Sydney,4
+7,Melbourne,4
+8,Wellington,5
+9,Bejing,6
+10,New Delhi,7
+11,Bombay,7
+12,Jakarta,8
+13,London,9
+14,Liverpool,9
+15,Manchester,9
+16,Paris,10
+17,Cannes,10
+18,Nice,10
+19,Bonn,11
+20,Berlin,11
+21,Frankfurt,11
+22,New York,12
+23,Seattle,12
+24,San Francisco,12
+25,Los Angeles,12
+26,Boston,12
+27,Toronto,13
+28,Vancouver,13
+29,Ottawa,13
+30,Mexico City,14
+31,Cancun,14
+32,New Brazil,15
+33,Rio de Janeiro,15
+34,Sao Paolo,15
+35,Buenos Aires,16
+36,Santiago,17
